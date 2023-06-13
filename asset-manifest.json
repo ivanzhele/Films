@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Films/static/css/main.2a41d367.css",
+    "main.js": "/Films/static/js/main.0cb61e99.js",
+    "static/media/Montserrat-Regular.ttf": "/Films/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/matrix.png": "/Films/static/media/matrix.8568e08b6cb6a93c43fb.png",
+    "static/media/MontserratSubrayada-Regular.ttf": "/Films/static/media/MontserratSubrayada-Regular.e05c186405192d00bc70.ttf",
+    "index.html": "/Films/index.html",
+    "main.2a41d367.css.map": "/Films/static/css/main.2a41d367.css.map",
+    "main.0cb61e99.js.map": "/Films/static/js/main.0cb61e99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a41d367.css",
+    "static/js/main.0cb61e99.js"
+  ]
+}
