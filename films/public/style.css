@@ -1,0 +1,101 @@
+
+@font-face {
+    src: url(fonts/akzidenzgroteskpro_mdex.ttf);
+    font-family: Akzidenz-Grotesk;
+    font-weight: 700;
+}
+@font-face {
+    src: url(fonts/akzidenzgroteskpro_medextit.ttf);
+    font-family: Akzidenz-Grotesk;
+    font-weight: 701;
+}
+@font-face {
+    src: url(fonts/akzidenzgroteskpro_light.ttf);
+    font-family: Akzidenz-Grotesk;
+    font-weight: 300;
+}
+
+
+
+body {
+    background-color: #111;
+}
+
+nav {
+    background-color: #222;
+    font-family: Akzidenz-Grotesk;
+    font-weight: 700;
+}
+
+#nav-mobile {
+    display: none;
+}
+
+.page-footer {
+    background-color: #222;
+    margin-top: 36px;
+  }
+.footer-logo {
+    height: 36px;
+    opacity: 0.8;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 15%;
+    width: 100%;
+}
+
+.card {
+    background-color: #333;
+    color: #fff;
+}
+.card-title {
+    font-family: Akzidenz-Grotesk;
+    font-weight: 700;
+}
+.card-content p {
+    font-family: Akzidenz-Grotesk;
+    font-weight: 300;
+}
+
+.input-field input[type=search] {
+    padding-left: 16px;
+}
+.validate {
+    color: #AAA;
+}
+.input-field input[type=search]:focus:not(.browser-default) {
+    background-color: #222;
+    color: #FFF;
+}
+.search-btn {
+    height: 100%;
+    width: 100px;
+    margin-right: -0.5rem;
+}
+
+.NFwrap {
+    left: 0;
+    position: absolute;
+    margin-top: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center; 
+    font-family: Akzidenz-Grotesk;
+    color: #FFF;
+}
+.NFwrap h4 {
+    font-weight: 701;
+    font-size: 100px;
+    opacity: 0.8;
+}
+.NFwrap h5 {
+    font-weight: 700;
+    font-size: 240px;
+    opacity: 0.2;
+    margin-top: -210px;
+}
